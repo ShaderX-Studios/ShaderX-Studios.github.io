@@ -13,8 +13,13 @@ body {
 #	
 }
 
-.TopOfPage {
-	margin-top:350px;
-	margin-right:700px;
-	background-image: url("Resources\Images\headercode.png");
+.header {
+	margin-right:50px;
+	background-image: url("");
+	text-align:top;
+	text-align:;
+}
+
+.headerimg {
+	background-image: url("https://lh3.googleusercontent.com/-dmRmIzftLA8/VtzbFlkQB4I/AAAAAAAAHt4/RZrqG8sRB6A/s400/2016-03-06.jpg")
 }
