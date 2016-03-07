@@ -6,15 +6,9 @@
 body {
 	background-color:black;
 	color:white;
-	#font-family:barkentina;
-
-
-.header {
-	margin-right:50px;
-	background-image: url("");
-	text-align:top;
-	text-align:;
 }
 
-.headerimg {
-	background-image: url("https://lh3.googleusercontent.com/-dmRmIzftLA8/VtzbFlkQB4I/AAAAAAAAHt4/RZrqG8sRB6A/s400/2016-03-06.jpg")
+h1 {
+	font-size:50pt;
+	text-align:center;
+}
