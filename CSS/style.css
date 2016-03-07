@@ -1,6 +1,6 @@
 @font-face {
 	font-family:barkentina;
-	src:url("Resources/Fonts/Barkentina1.ttf");
+	src:url("Resources\Fonts\Barkentina1.ttf") format("truetype");
 }
 
 body {
