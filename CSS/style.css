@@ -7,11 +7,7 @@ body {
 	background-color:black;
 	color:white;
 	#font-family:barkentina;
-}
-#h1, h2, h3, h4, h5, h6 {
-#	font-family:barkentina;
-#	
-}
+
 
 .header {
 	margin-right:50px;
@@ -22,4 +18,3 @@ body {
 
 .headerimg {
 	background-image: url("https://lh3.googleusercontent.com/-dmRmIzftLA8/VtzbFlkQB4I/AAAAAAAAHt4/RZrqG8sRB6A/s400/2016-03-06.jpg")
-}
