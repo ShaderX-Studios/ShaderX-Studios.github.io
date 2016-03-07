@@ -1,0 +1,9 @@
+ShaderX Studios is an Independent Software Development Studio. 
+We are best known for our game engine: ShaderX Engine, our Graphical API: ShaderX14, and our hit game franchise: Realista.
+The Team:
+Trevor Louis Payne: CO-CEO, Lead Software Deisgner, Social Media Orginizer, Lead Artist, Programmer, and Game Deisgner
+Knighton Steele: 3D Model Deisgner, Social Media Orginizer
+Christopher Issac Bell: Game Designer, 3D Model Deisgner, Software Designer, Artist
+
+About the Team:
+We are a group who enjoy making quality games, software, and possibly hardware. We are working on many amazing games, great game engines, and beautiful Graphical API's.
