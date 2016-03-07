@@ -1,14 +1,14 @@
-@font-face {
-	font-family:barkentina;
-	src:url("Resources\Fonts\Barkentina1.ttf") format("truetype");
+#@font-face {
+#	font-family:barkentina;
+#	src:url("Resources\Fonts\Barkentina1.ttf") format("truetype");
 }
 
 body {
 	background-color:black;
 	color:white;
-	font-family:barkentina;
+	#font-family:barkentina;
 }
-h1, h2, h3, h4, h5, h6 {
-	font-family:barkentina, Barkentina1.ttf;
-	
+#h1, h2, h3, h4, h5, h6 {
+#	font-family:barkentina;
+#	
 }
