@@ -1,0 +1,16 @@
+.blog-post {
+	text-align: center;
+	border-style: solid;
+	border-color: black;
+	background-color: lightgrey;
+}
+
+.blog-post-title {
+	font-size: 30pt;
+	font-style: bold;
+}
+
+.blog-post-text {
+	text-align: center;
+	font-size: 25pt;
+}
