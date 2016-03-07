@@ -3,6 +3,11 @@
 #	src:url("Resources\Fonts\Barkentina1.ttf") format("truetype");
 }
 
+a {
+	text-decoration:none;
+	color:white;
+}
+
 body {
 	background-color:black;
 	color:white;
@@ -11,4 +16,9 @@ body {
 h1 {
 	font-size:50pt;
 	text-align:center;
+}
+
+.content p {
+	padding-left:20px;
+	font-size:25px;
 }
