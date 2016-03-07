@@ -1,4 +1,10 @@
+@font-face {
+	font-family:barkentina;
+	src:url("Resources/Fonts/Barkentina1.ttf");
+}
+
 body {
 	background-color:black;
 	color:white;
+	font-family:barkentina;
 }
