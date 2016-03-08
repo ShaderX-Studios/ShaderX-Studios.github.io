@@ -23,6 +23,11 @@ h1 {
 	font-size:25px;
 }
 
+.content img {
+	width:650px;
+	height:300px;
+}
+
 .navbttns {
 	padding:10px;
 	padding-bottom:30px;
